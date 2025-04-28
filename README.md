@@ -1,7 +1,3 @@
-A seguir está um README adaptado à versão em Java orientada a objetos, seguido das respostas às suas perguntas.
-
----
-
 JOGO DE PING PONG EM JAVA (ORIENTAÇÃO A OBJETO)
 ==============================================
 

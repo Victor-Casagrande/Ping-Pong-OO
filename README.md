@@ -28,7 +28,6 @@ Este projeto reimplementa o clássico Ping Pong em Java, organizando toda a lóg
 
 **Como Compilar e Executar**  
 ```bash
-# dentro da pasta com todos os .java
 javac *.java
 java Game
 ```
@@ -68,4 +67,3 @@ Sim. O paradigma OOP permite representar cada entidade do jogo (bola, raquete, h
 - **Mais fácil** para manutenção, extensão e entendimento — sobretudo se já estiver familiarizado com Java e OOP.  
 - **Um pouco mais difícil** no início, pois envolve configurar classes, pacotes, threads e gerenciar buffers, enquanto em C bastava um único `.c` e `gcc`.  
 
-Em resumo, a transição para Java OO traz modularidade, legibilidade e facilidade de extensão em troca de um pouco mais de complexidade inicial e overhead de JVM.
